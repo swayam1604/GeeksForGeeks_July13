@@ -16,7 +16,7 @@ Given an array of positive integers, the task is to find the maximum sum of all 
 Python 3
 
 ### 📦 File:
-- `july13_max_sum_not_in_lis.py` — contains the solution code.
+- `july13.py` — contains the solution code.
 
 ---
 
